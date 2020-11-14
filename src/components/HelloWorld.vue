@@ -1,11 +1,11 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>FIRE PHOENIX TRAINING - Săn học bổng ĐH FPT</p>
+    <p>FIRE PHOENIX TRAINING - Luyện thi học bổng FPT</p>
     <h3>Mọi thông tin chi tiết xin liên hệ:</h3>
 
     <ul>
-      👉 Facebook:
+      👉 Fanpage:
       <a
         href="https://www.facebook.com/fire.phoenix.training/"
         target="https://www.facebook.com/fire.phoenix.training/"
@@ -23,7 +23,7 @@
       >
     </ul>
     <ul>
-      📞 Contact:
+      📞 Contact
     </ul>
     <ul>
       070 445 1334 (Mr. Vy)

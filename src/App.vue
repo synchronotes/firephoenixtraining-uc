@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/firephoenix.png" height="300px" width="300px">
-    <HelloWorld msg="UNDER CONSTRUCTION"/>
+    <HelloWorld msg="ĐANG TRONG QUÁ TRÌNH XÂY DỰNG"/>
   </div>
 </template>
 
