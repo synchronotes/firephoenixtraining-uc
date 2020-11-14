@@ -1,4 +1,4 @@
-# fft-uc
+# firephoenixtraining
 
 ## Project setup
 ```
